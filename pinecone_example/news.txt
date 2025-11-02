@@ -1,0 +1,227 @@
+symbol,publishedDate,title,site
+IIPR,2023-11-16 21:53:54,Innovative Industrial Properties: Buying The Bullish Reversal Pattern Amid Strong Financials,Seeking Alpha
+SYTA,2023-11-16 21:52:08,Siyata Mobile Inc. (SYTA) Q3 2023 Earnings Call Transcript,Seeking Alpha
+BABA,2023-11-16 21:48:04,Should Investors Buy the Dip in Alibaba or Walmart's Stock After Earnings?,Zacks Investment Research
+AMAT,2023-11-16 21:27:07,"Applied Materials, Inc. (AMAT) Q4 2023 Earnings Call Transcript",Seeking Alpha
+GLOB,2023-11-16 21:20:10,Globant S.A. (GLOB) Q3 2023 Earnings Call Transcript,Seeking Alpha
+GPS,2023-11-16 21:18:00,Gap Stock Soars 17% as Earnings Crush Expectations and Revenue Also Beats Them,The Motley Fool
+NGVC,2023-11-16 21:17:09,"Natural Grocers by Vitamin Cottage, Inc. (NGVC) Q4 2023 Earnings Call Transcript",Seeking Alpha
+ENSV,2023-11-16 21:15:05,Enservco Corporation (ENSV) Q3 2023 Earnings Call Transcript,Seeking Alpha
+BNO,2023-11-16 21:05:03,Oil prices on track for fourth straight week of decline,Reuters
+DSNKY,2023-11-16 21:04:46,Japan to buy 1.4 mln doses of Daiichi Sankyo COVID vaccine,Reuters
+IIPR,2023-11-16 21:03:58,"Innovative Industrial Properties: With A 9.5% Yield And Upside Potential, It's Time To Load Up",Seeking Alpha
+ROST,2023-11-16 20:52:08,"Ross Stores, Inc. (ROST) Q3 2023 Earnings Call Transcript",Seeking Alpha
+WWD,2023-11-16 20:44:06,"Woodward, Inc. (WWD) Q4 2023 Earnings Call Transcript",Seeking Alpha
+TSLA,2023-11-16 20:42:18,"Elon Musk's behavior and damage to Tesla brand is 'absolutely outrageous', says investor Ross Gerber",CNBC Television
+OGFGF,2023-11-16 20:38:53,Origin Energy shareholder shows hand and backs $10.5 bln Brookfield bid,Reuters
+SBUX,2023-11-16 20:35:41,"Starbucks is exploiting understaffing, putting workers under pressure, says Starbucks union member",CNBC Television
+BATL,2023-11-16 20:29:35,Battalion Oil Continues To Add Preferred Equity,Seeking Alpha
+GPS,2023-11-16 20:21:47,Gap Charts Course Back to Pop Culture Roots for Shopper Reconnection,PYMNTS
+AEO,2023-11-16 20:17:05,3 Top-Ranked Stocks to Buy for High Growth,Zacks Investment Research
+POST,2023-11-16 20:17:03,Post Holdings (POST) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates,Zacks Investment Research
+ROST,2023-11-16 20:07:10,Ross Stores CEO Says Off-Price Sector Remains Resilient,PYMNTS
+CSX,2023-11-16 20:05:49,"A lot of industrial development in the Southeast is in our network, says CSX CEO Joe Hinrichs",CNBC Television
+TKGSF,2023-11-16 20:03:41,UK's Octopus Energy launches $3.7 bln offshore wind fund with Tokyo Gas,Reuters
+MS,2023-11-16 20:00:59,Morgan Stanley CEO says there's 'real progress' in the fight against inflation,CNBC International TV
+SITM,2023-11-16 19:58:55,"We're 85% single-source with our customers, says SiTime CEO Rajesh Vashist",CNBC Television
+DIS,2023-11-16 19:55:45,Disney CEO Bob Iger reportedly plans town hall for employees during turnaround,Fox Business
+NVCR,2023-11-16 19:54:20,NovoCure: Significant Upside Even Without A Breakthrough,Seeking Alpha
+BZH,2023-11-16 19:53:05,"Beazer Homes USA, Inc. (BZH) Q4 2023 Earnings Call Transcript",Seeking Alpha
+WMT,2023-11-16 19:51:13,"Walmart's toxic brew was inflated stock price and deflation impacting merchandise, says Jim Cramer",CNBC Television
+SOXQ,2023-11-16 19:46:33,"SOXQ: Rich Valuation, Wait For A Pullback",Seeking Alpha
+IBM,2023-11-16 19:33:24,IBM suspends advertising on X,Yahoo Finance
+KBH,2023-11-16 19:32:20,KB Home (KBH) Laps the Stock Market: Here's Why,Zacks Investment Research
+CAG,2023-11-16 19:32:18,Conagra Brands (CAG) Stock Sinks As Market Gains: Here's Why,Zacks Investment Research
+WWD,2023-11-16 19:32:17,Woodward (WWD) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates,Zacks Investment Research
+DLB,2023-11-16 19:32:15,Dolby Laboratories (DLB) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates,Zacks Investment Research
+AMSWA,2023-11-16 19:32:13,Here's What Key Metrics Tell Us About American Software (AMSWA) Q2 Earnings,Zacks Investment Research
+BZH,2023-11-16 19:32:11,Beazer (BZH) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates,Zacks Investment Research
+GPS,2023-11-16 19:32:09,"Compared to Estimates, Gap (GPS) Q3 Earnings: A Look at Key Metrics",Zacks Investment Research
+BBWI,2023-11-16 19:32:07,"Specialty Retailers Report Q3 Earnings Afterhours: Gap, Ross, B&BW",Zacks Investment Research
+ANGO,2023-11-16 19:32:05,AngioDynamics (ANGO) Stock Drops Despite Market Gains: Important Facts to Note,Zacks Investment Research
+CMP,2023-11-16 19:32:04,Compass (CMP) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates,Zacks Investment Research
+DLB,2023-11-16 19:27:09,"Dolby Laboratories, Inc. (DLB) Q4 2023 Earnings Call Transcript",Seeking Alpha
+FDCFF,2023-11-16 19:25:00,"Forum Energy Metals to Present at the 121 Mining Investment Conference in London, November 20-21, 2023",Newsfile Corp
+GPS,2023-11-16 19:23:09,"The Gap, Inc. (GPS) Q3 2023 Earnings Call Transcript",Seeking Alpha
+GOOG,2023-11-16 19:21:50,Google CEO Sundar Pichai compares AI to climate change at APEC CEO Summit,CNBC
+VWAGY,2023-11-16 19:20:17,China's transition to EVs is so fast that Volkswagen is on track for its worst local sales in years,CNBC
+EQWL,2023-11-16 19:17:38,"EQWL: An Alternative, Value-Ish Take On U.S. Bellwethers",Seeking Alpha
+BA,2023-11-16 19:17:23,Boeing partners with U.S. govt to boost SAF development in APEC countries,Reuters
+HDB,2023-11-16 19:13:15,HDFC Bank: Cleaning Out The Closet,Seeking Alpha
+IBM,2023-11-16 19:06:31,IBM suspends advertising on X after report says ads ran next to antisemitic content,CNBC
+ASC,2023-11-16 19:04:37,Why I Continue To Include Ardmore Shipping In My Value Portfolio,Seeking Alpha
+AMSWA,2023-11-16 19:02:09,"American Software, Inc. (AMSWA) Q2 2024 Earnings Call Transcript",Seeking Alpha
+META,2023-11-16 18:53:25,Meta launches AI-based video editing tools,Reuters
+GOOG,2023-11-16 18:51:57,Google CEO on China vs US AI Race,Bloomberg Markets and Finance
+AMAT,2023-11-16 18:47:12,Applied Materials (AMAT) Q4 Earnings and Revenues Top Estimates,Zacks Investment Research
+HAYN,2023-11-16 18:47:11,Haynes International (HAYN) Lags Q4 Earnings and Revenue Estimates,Zacks Investment Research
+CPRT,2023-11-16 18:47:10,"Copart, Inc. (CPRT) Tops Q1 Earnings and Revenue Estimates",Zacks Investment Research
+DLB,2023-11-16 18:47:08,Dolby Laboratories (DLB) Beats Q4 Earnings and Revenue Estimates,Zacks Investment Research
+GPS,2023-11-16 18:47:07,Gap (GPS) Surpasses Q3 Earnings and Revenue Estimates,Zacks Investment Research
+AMAT,2023-11-16 18:47:05,Applied Materials (AMAT) Q4 Earnings: How Key Metrics Compare to Wall Street Estimates,Zacks Investment Research
+CCL,2023-11-16 18:47:03,Why Carnival (CCL) Outpaced the Stock Market Today,Zacks Investment Research
+ACRE,2023-11-16 18:45:16,BDCs Vs. MREITs: High-Yield Rumble,Seeking Alpha
+WMT,2023-11-16 18:41:54,Cramer says the Fed's efforts to squash inflation are now hurting stocks like Walmart,CNBC
+GM,2023-11-16 18:37:57,General Motors' BrightDrop commercial EV division head leaves amid unit streamlining moves,Proactive Investors
+ESE,2023-11-16 18:35:05,ESCO Technologies Inc. (ESE) Q4 2023 Earnings Call Transcript,Seeking Alpha
+JNJ,2023-11-16 18:32:54,J&J settles first talc cases to go to trial after failed bankruptcies,Reuters
+EVRG,2023-11-16 18:32:00,Evergy Inc.: A New Dividend Increase And A Discounted Price,Seeking Alpha
+MACE,2023-11-16 18:28:03,"Mace Security International, Inc. (MACE) Q3 2023 Earnings Call Transcript",Seeking Alpha
+WMT,2023-11-16 18:19:28,"Walmart results reflective of slowing consumer spending, warns Fmr. CEO Bill Simon",CNBC Television
+AMZN,2023-11-16 18:18:55,Carvana CEO: Amazon's online car sales 'validates this is something consumers want',CNBC Television
+AGG,2023-11-16 18:16:41,Investors Buying Back Into Bonds Shouldn't Overlook BNDI,ETF Trends
+AMLP,2023-11-16 18:16:39,MSCI Upgrades Midstream Company Enterprise's ESG Rating to “A”,ETF Trends
+JNUG,2023-11-16 18:16:38,Gaining Global Exposure to Gold Miners,ETF Trends
+COST,2023-11-16 18:15:54,3 Best Long-Term Stocks Every 50-Year-Old Should Buy and Hold,InvestorPlace
+DLB,2023-11-16 18:14:00,Dolby shares fall on disappointing forecast,Market Watch
+FDX,2023-11-16 18:13:05,FedEx Chased By Bulls: Buy Rating Fueled By Earnings And Dividend Growth,Seeking Alpha
+SPCB,2023-11-16 18:12:06,SuperCom Ltd. (SPCB) Q3 2023 Earnings Call Transcript,Seeking Alpha
+NAPA,2023-11-16 18:11:00,Duckhorn to buy Sonoma-Cutrer Vineyards for $400 million,Market Watch
+SYM,2023-11-16 18:09:00,Why Symbotic Stock Popped 15% This Week,The Motley Fool
+USAS,2023-11-16 18:03:29,Americas Gold and Silver narrows net loss in 'difficult' third quarter,Kitco
+ALTI,2023-11-16 18:02:05,These Small-Cap Stocks are a Highlight of This Week's Earnings Lineup,Zacks Investment Research
+ISD,2023-11-16 18:01:33,"ISD: Diversified Junk Bond Fund, But Distribution Does Not Appear Sustainable",Seeking Alpha
+EGLX,2023-11-16 18:01:06,Enthusiast Gaming Holdings Inc. (EGLXF) Q3 2023 Earnings Call Transcript,Seeking Alpha
+NOWVF,2023-11-16 18:00:00,NowVertical Group Announces Third Quarter 2023 Earnings Release Date and Financial Webinar,GlobeNewsWire
+MRK,2023-11-16 17:52:00,Merck's Keytruda gets approval to treat certain types of gastric cancer,Market Watch
+ROST,2023-11-16 17:49:56,Ross Stores share climb on 3Q beat-and-rise,Proactive Investors
+NMR,2023-11-16 17:47:33,Nomura Holdings: Too Early To Be Bullish,Seeking Alpha
+MOR,2023-11-16 17:45:02,MorphoSys AG (MOR) Q3 2023 Earnings Call Transcript,Seeking Alpha
+QCOM,2023-11-16 17:42:30,3 Semiconductor Stocks You'll Regret Not Buying Soon: November 2023,InvestorPlace
+GPS,2023-11-16 17:37:12,Gap stock jumps 15% despite muted outlook for holiday quarter,Invezz
+CERE,2023-11-16 17:35:36,3 Biotech Stocks That Could Boom or Bust by 2025,InvestorPlace
+APD,2023-11-16 17:34:47,3 Hydrogen Stocks With Strong Government Support,InvestorPlace
+SE,2023-11-16 17:32:42,Why Sea Limited Stock Plunged This Week,The Motley Fool
+EVGIF,2023-11-16 17:26:00,EverGen Infrastructure Announces Dates for 2023 Third Quarter Financial Results and Conference Call,Business Wire
+CSCO,2023-11-16 17:25:36,S&P 500 Gains and Losses Today: Cisco Systems Sinks as Orders Slow,Investopedia
+AMZN,2023-11-16 17:25:33,"CarMax, Carvana Shares Tumble After Amazon Says It Will Sell Cars",Investopedia
+ACLS,2023-11-16 17:24:55,Get Massive Returns in 2024 With These Top 7 Undervalued Growth Stocks,InvestorPlace
+BNO,2023-11-16 17:21:07,Oil slips below $80 a barrel: Where could gas prices go?,Yahoo Finance
+AMAT,2023-11-16 17:20:00,"After Strong Earnings, Applied Materials Stock Drops on Investigation Report",Barrons
+AZN,2023-11-16 17:18:28,US FDA approves AstraZeneca's breast cancer drug combination,Reuters
+BA,2023-11-16 17:18:15,Boeing's chief strategy officer to depart in 2024,Reuters
+BTU,2023-11-16 17:17:34,Coal Isn't Dead! I'm Bullish On Peabody Energy,Seeking Alpha
+GPS,2023-11-16 17:17:26,"GAP beats on Q3 earnings, sees smaller than expected same-store sales decline",CNBC Television
+WMT,2023-11-16 17:16:18,Walmart's Q3 Highlights Paycheck-to-Paycheck Consumer Caution in Holiday Spending,PYMNTS
+MMS,2023-11-16 17:14:07,"Maximus, Inc. (MMS) Q4 2023 Earnings Call Transcript",Seeking Alpha
+BLNK,2023-11-16 17:14:04,Why Blink Charging Stock Soared 37% This Week,The Motley Fool
+AVAL,2023-11-16 17:14:03,Grupo Aval Acciones y Valores S.A. (AVAL) Q3 2023 Earnings Call Transcript,Seeking Alpha
+INTC,2023-11-16 17:13:44,"Intel stocks jumps after upgrade, Sonos teases new product",Yahoo Finance
+QRTEA,2023-11-16 17:11:17,Why These Companies Are 3 of the Biggest Stocks to Sell Now,InvestorPlace
+SNEX,2023-11-16 17:11:03,StoneX Group Inc. (SNEX) Q4 2023 Earnings Call Transcript,Seeking Alpha
+SCVL,2023-11-16 17:08:08,"Shoe Carnival, Inc. (SCVL) Q3 2023 Earnings Call Transcript",Seeking Alpha
+CTVA,2023-11-16 17:07:01,The 7 Most Overlooked Wide-Moat Stocks,InvestorPlace
+AMZN,2023-11-16 17:05:37,You May Be Able To Buy A Hyundai Car On Amazon In 2024,Investopedia
+PEP,2023-11-16 17:04:38,New York state sues PepsiCo over plastic pollution in river,Skynews
+HD,2023-11-16 17:01:59,What retail earnings have revealed about the consumer,Yahoo Finance
+BUD,2023-11-16 17:00:55,Anheuser-Busch's US marketing chief to exit as Bud Light sales slump drags on,Fox Business
+SPCE,2023-11-16 17:00:00,Why Virgin Galactic Stock Jumped 16% This Week,The Motley Fool
+CNQ,2023-11-16 16:58:55,3 Oil Stocks to Buy Heading Into December,InvestorPlace
+C,2023-11-16 16:57:28,The Options Trader's Hotlist: 7 Stocks with Compelling Prospects,InvestorPlace
+EGIO,2023-11-16 16:57:14,"Edgio, Inc. (EGIO) Q3 2023 Earnings Call Transcript",Seeking Alpha
+FSLY,2023-11-16 16:57:09,"Fastly, Inc. (FSLY) D.A. Davidson Technology Summit (Transcript)",Seeking Alpha
+BABA,2023-11-16 16:54:56,"Cisco's Weak Forecast, Alibaba Stops Cloud Unit Spinoff | Bloomberg Technology",Bloomberg Technology
+CMCT,2023-11-16 16:54:04,Creative Media & Community Trust Corporation (CMCT) Q3 2023 Earnings Call Transcript,Seeking Alpha
+WMT,2023-11-16 16:51:07,Walmart aims to lower food costs to entice customers to buy other products,Fox Business
+CACC,2023-11-16 16:50:10,Credit Acceptance: There Are Better Opportunities,Seeking Alpha
+WMT,2023-11-16 16:49:10,"Deflation is shaking things up for retailers, analyst says",Yahoo Finance
+GPS,2023-11-16 16:49:00,Gap shares rally as signs of discounting ease,Market Watch
+ARM,2023-11-16 16:48:20,Arm Holdings Has This Massive Growth Opportunity Thanks to Microsoft and Other Cloud Giants,The Motley Fool
+AMAT,2023-11-16 16:47:52,"Applied Materials stock slumps despite 4Q beat, better outlook",Proactive Investors
+TSLA,2023-11-16 16:47:26,3 EV Stocks Jumping on the Tesla Bandwagon,InvestorPlace
+PEV,2023-11-16 16:46:04,Phoenix Motor Inc. (PEV) Q3 2023 Earnings Call Transcript,Seeking Alpha
+PYPL,2023-11-16 16:45:10,Best Stocks to Buy: PayPal Stock vs. SoFi Stock,The Motley Fool
+INTC,2023-11-16 16:45:02,Why Intel Is a Chip Stock Worth Buying,InvestorPlace
+ARR,2023-11-16 16:44:11,The 7 Highest-Yielding Dividend Stocks in November,InvestorPlace
+ARBK,2023-11-16 16:44:09,Argo Blockchain plc (ARBK) Q3 2023 Earnings Call Transcript,Seeking Alpha
+GPS,2023-11-16 16:42:57,Gap shares pop as 3Q sales and profits beat expectations,Proactive Investors
+ALB,2023-11-16 16:41:47,The 7 Most Undervalued Battery Stocks to Buy: November 2023,InvestorPlace
+PROK,2023-11-16 16:40:27,ProKidney Corp. (PROK) Q3 2023 Earnings Call Transcript,Seeking Alpha
+WIX,2023-11-16 16:40:00,Wix to Participate in Fireside Chat at the Nasdaq 49th Investor Conference,PRNewsWire
+META,2023-11-16 16:38:57,Facebook cofounder calls on Elon Musk to resign after Tesla CEO calls antisemitic tweet 'the actual truth',Business Insider
+SSNLF,2023-11-16 16:36:59,Report: Samsung Discloses Year-Long Data Breach in UK Store,PYMNTS
+ROST,2023-11-16 16:36:00,"Ross sales, profit rise as retailer rides ‘resilience of the off-price sector'",Market Watch
+M,2023-11-16 16:35:42,"Macy's Shares Jump After Earnings Beat as It Raised Margins, Cut Costs, and Shed Inventory",Investopedia
+SCWX,2023-11-16 16:35:00,"Secureworks to Report Third Quarter Fiscal 2024 Financial Results on December 7, 2023",PRNewsWire
+IBM,2023-11-16 16:33:33,IBM suspends ads on X after corporate ads appeared next to pro-Nazi content,Reuters
+AMZN,2023-11-16 16:32:06,Time to Take Profits: 2 Stocks to Buy on a Pullback,Zacks Investment Research
+CMTL,2023-11-16 16:32:04,3 Top-Ranked Small-Caps to Buy for Big Growth,Zacks Investment Research
+GM,2023-11-16 16:31:28,GM confirms CEO of commercial electric vehicle unit BrightDrop is leaving,Reuters
+C,2023-11-16 16:31:00,"Citi sticks to internal plan to communicate scaled-back business model by end of November, with full details for Wall Street in early 2024",Market Watch
+INTC,2023-11-16 16:30:00,Intel Corporation to Participate in Upcoming Investor Conference,Business Wire
+ATRI,2023-11-16 16:28:03,Atrion Corporation: A Curious But Concerning Selloff,Seeking Alpha
+ALB,2023-11-16 16:22:54,3 Lithium Stocks With Short-Term Catalysts Ahead,InvestorPlace
+BABA,2023-11-16 16:20:32,Alibaba Jettisons Cloud Spin-Off Amid Focus on AI,PYMNTS
+CHPT,2023-11-16 16:20:00,"ChargePoint Provides Certain Preliminary Third Quarter Financial Results and Schedules Earnings Call for December 6, 2023",Business Wire
+GPS,2023-11-16 16:18:36,Gap blows past earnings estimates but offers muted holiday forecast against uncertain backdrop,CNBC
+AI,2023-11-16 16:18:09,Why Are Chinese Stocks Down Today?,InvestorPlace
+NVDA,2023-11-16 16:17:55,"Nvidia will have a good earnings report next week, says EMJ Capital's Eric Jackson",CNBC Television
+AAAU,2023-11-16 16:17:23,Gold's Bullish Surge: Resilience in the Face of Potential Resistance,FXEmpire
+BNXAF,2023-11-16 16:17:08,Banxa well-positioned for next growth stage after debt buyout,Proactive Investors
+AMAT,2023-11-16 16:17:00,"Applied Materials' stock is falling despite earnings, sales beats",Market Watch
+PXS,2023-11-16 16:15:00,Pyxis Tankers Announces Date for the Release of the Third Quarter 2023 Results and Related Conference Call & Webcast,GlobeNewsWire
+GM,2023-11-16 16:10:38,GM Workers First of the Big Three to Approve UAW Deal,Investopedia
+TRUE,2023-11-16 16:09:47,TrueCar's Fundamentals Stabilize As Car Market Rebalances,Seeking Alpha
+GLCNF,2023-11-16 16:09:43,"The Glencore-Teck saga closes with both emerging as winners, analysts say",Proactive Investors
+AMLI,2023-11-16 16:09:32,American Lithium secures legal win as Peruvian court confirms ownership of 32 concessions,Kitco
+ULTA,2023-11-16 16:05:00,"Ulta Beauty to Report Third Quarter Results on November 30, 2023",Business Wire
+AAP,2023-11-16 16:03:00,Advance Auto's Big Changes Could Drive a Stock Turnaround—or It Could Be a Value Trap,Barrons
+CSCO,2023-11-16 16:02:52,Why Cisco Stock Plunged 11% This Week,The Motley Fool
+MU,2023-11-16 16:01:00,"Micron Technology to Report Fiscal First Quarter Results on December 20, 2023",GlobeNewsWire
+PANW,2023-11-16 16:00:45,"Palo Alto Networks Billings Miss Forecasts as Customers Change Plans, and Shares Fall",Investopedia
+ABNB,2023-11-16 16:00:42,NYC Airbnb hosts on brink of foreclosure following city clampdown: report,New York Post
+AMWD,2023-11-16 16:00:00,American Woodmark Corporation Announces Second Quarter Conference Call on the Internet,Business Wire
+NVDA,2023-11-16 15:59:59,"Nvidia faces high expectations for 3Q earnings, BoA analysts still expect beat and raise",Proactive Investors
+SOFI,2023-11-16 15:59:41,"The market is in a purgatory state, says SoFi's Liz Young",CNBC Television
+PFLT,2023-11-16 15:56:06,PennantPark Floating Rate Capital (PFLT) Q4 2023 Earnings Call Transcript,Seeking Alpha
+LI,2023-11-16 15:56:01,The 3 Most Undervalued EV Stocks to Buy Now: November 2023,InvestorPlace
+HR,2023-11-16 15:55:54,H&R REIT: 6.6% Yielder Offers Compelling Value For Risk-Adjusted Returns,Seeking Alpha
+CIVI,2023-11-16 15:55:31,The Best Bets In The Energy Sector: The Permian Basin,Seeking Alpha
+FSR,2023-11-16 15:55:18,FSR Stock Alert: Fisker Vehicle Prototypes Are Coming to LA,InvestorPlace
+ING,2023-11-16 15:54:22,Investors will want to own gold as ‘America faces a debt reckoning' - Maison Placements Canada's John Ing,Kitco
+F,2023-11-16 15:50:55,"Subaru to raise US plant worker wages in light of UAW deals with Detroit automakers, CEO says",Fox Business
+ALLY,2023-11-16 15:50:19,Warren Buffett Bargains: 3 Stocks With Price Tags Too Good to Ignore,InvestorPlace
+DKNG,2023-11-16 15:47:03,3 Industry Titans Benefitting from Mega Trends,Zacks Investment Research
+DWAC,2023-11-16 15:46:24,"Trump's social media company has lost over $31 million since its launch, faces potential shutdown",CNBC
+DB,2023-11-16 15:44:42,"Investing in Space: Deutsche Bank draws investors, companies for NYC for summit",CNBC
+CLS,2023-11-16 15:43:10,Millionaire's Secret: Top 3 Stocks Set to Soar in the Next Market Surge,InvestorPlace
+STNE,2023-11-16 15:36:00,Why StoneCo Stock Popped 27% This Week,The Motley Fool
+GM,2023-11-16 15:35:46,UAW ratifies labor deal with General Motors,Fox Business
+PL,2023-11-16 15:31:40,The Prognosis For Planet Labs,Seeking Alpha
+PSHZF,2023-11-16 15:31:05,Pershing Square Holdings Ltd (PSHZF) Q3 2023 Earnings Call Transcript,Seeking Alpha
+EDIT,2023-11-16 15:25:54,3 Long-Term Growth Stocks Analysts Are Bullish On,InvestorPlace
+ITB,2023-11-16 15:25:33,"Homebuilder Sentiment Fell Again In November, But Recent Inflation Data Fans Optimism",Investopedia
+AYASF,2023-11-16 15:25:28,Aya Gold & Silver Inc. (AYASF) Q3 2023 Earnings Call Transcript,Seeking Alpha
+JBFCF,2023-11-16 15:25:25,Jollibee Foods Corporation (JBFCF) Q3 2023 Earnings Call Transcript,Seeking Alpha
+AVGO,2023-11-16 15:24:24,"Broadcom: Shares Breakout, Q4 Earnings On Tap, Watch Buyback Plans",Seeking Alpha
+AA,2023-11-16 15:24:02,Alcoa Corporation (AA) Goldman Sachs Metals & Mining Conference Call Transcript,Seeking Alpha
+ACHR,2023-11-16 15:23:02,3 eVTOL Stocks Ready to Take to the Skies,InvestorPlace
+TTEK,2023-11-16 15:20:02,"Tetra Tech, Inc. (TTEK) Q4 2023 Earnings Call Transcript",Seeking Alpha
+WBA,2023-11-16 15:17:31,Don't Bet on Walgreens Boots Alliance Stock's Bounce Just Yet,Schaeffers Research
+CSCO,2023-11-16 15:11:59,Cisco price target lowered by analysts on excess inventory warning,Proactive Investors
+ACHR,2023-11-16 15:11:57,3 Cathie Wood You'll Regret Not Buying Soon: November 2023,InvestorPlace
+DLTR,2023-11-16 15:11:09,Nasdaq's Hidden Deals: 3 Value Stocks to Buy Before the Rebound,InvestorPlace
+SSUMY,2023-11-16 15:10:27,Sumitomo eyes to triple battery materials production capacity by 2030,Kitco
+GOOG,2023-11-16 15:10:16,The 3 Most Undervalued AI Stocks to Buy Now: November 2023,InvestorPlace
+RAD,2023-11-16 15:09:11,Bankrupt Rite Aid sues US Justice Dept to stop opioid lawsuit,Reuters
+SBUX,2023-11-16 15:07:42,SBUX Stock Alert: What to Know as Starbucks Faces Largest-Ever Strike,InvestorPlace
+BAC,2023-11-16 15:05:44,US bank profits to drop but industry stable after March crisis -analysts,Reuters
+WSBC,2023-11-16 15:05:40,WesBanco: Attractive Valuation With A Stable Earnings Outlook,Seeking Alpha
+WMT,2023-11-16 15:03:00,Dow down 120 points in final hour of trade as November rally pauses,Market Watch
+AMZN,2023-11-16 15:02:18,Hyundai CEO on partnership with Amazon,CNBC Television
+PCYO,2023-11-16 15:01:06,Pure Cycle Corporation (PCYO) Q4 2023 Earnings Call Transcript,Seeking Alpha
+WMT,2023-11-16 14:59:43,Deflation Alert: Walmart CEO Predicts Food Prices Will Fall in Near Future,InvestorPlace
+F,2023-11-16 14:59:00,A hybrid just won ‘vehicle of the year.' Here's why the EV case has been hard to crack.,Market Watch
+AMZN,2023-11-16 14:57:05,Amazon Enters Car Business: Customers Can Order Hyundais Online Starting Next Year,Forbes
+SRV,2023-11-16 14:56:47,SRV: This 14.79%-Yielder Finally Looks Worthwhile,Seeking Alpha
+BNO,2023-11-16 14:46:00,Oil futures are slipping into a condition known as contango. What that means for prices.,Market Watch
+BNO,2023-11-16 14:43:00,Oil prices settle at their lowest since July,Market Watch
+BNO,2023-11-16 14:41:03,Oil futures spreads signal market moving toward oversupply,Reuters
+CPA,2023-11-16 14:38:01,"Copa Holdings, S.A. (CPA) Q3 2023 Earnings Call Transcript",Seeking Alpha
+AAPL,2023-11-16 14:37:00,‘Magnificent Seven' stocks enjoyed a blistering 2023. Here's what it would take for that rally to spill over into 2024.,Market Watch
+AMAT,2023-11-16 14:35:20,"Earnings Exchange: Gap, BJ's Wholesale & Applied Materials",CNBC Television
+ARKK,2023-11-16 14:32:00,How you can beat ARK Innovation's longer-term return with less risk,Market Watch
+AAWH,2023-11-16 14:30:09,Cannabis Kings: November 2023's Most Promising Marijuana Stocks,MarijuanaStocks
+M,2023-11-16 14:29:41,Is AI Macy's Little Helper?,PYMNTS
+TGT,2023-11-16 14:28:58,Target CEO claims locking items in cases has gotten a 'big thank you' from shoppers,Proactive Investors
+CVX,2023-11-16 14:28:40,7 Energy Stocks You'll Regret Not Buying Soon: November 2023,InvestorPlace

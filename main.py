@@ -2,17 +2,14 @@ import os
 import sqlite3
 from openai import OpenAI
 import numpy as np
-from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
-from langchain.text_splitter import CharacterTextSplitter
-from langchain.vectorstores import SQLiteVSS
-from langchain.document_loaders import TextLoader
+
 
 import dotenv
 
 dotenv.load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-def get_embedding(text: str, model="text-embedding-ada-002") -> list[float]:
+def get_embedding(text: str, model="text-embedding-ada-002"):
     text.replace(("\n"), " ")
     r = client.embeddings.create(input=text, model=model)
     return r
