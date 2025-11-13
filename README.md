@@ -16,4 +16,4 @@ This repository offers hands-on code, notebooks and examples to understand, buil
 - Baseline comparisons: keyword search vs vector search, results retrieval quality, speed/latency tradeoffs.
 
 ## References
-- (Udemy Course)[https://www.udemy.com/course/master-vector-databases/] 
+- [Udemy Course](https://www.udemy.com/course/master-vector-databases/)
